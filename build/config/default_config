@@ -1,0 +1,3 @@
+BUILD_OBJ = "tetris"
+CONFIG_TETRIS = y
+DEFAULT_DATA_FILE = "data/score.txt"

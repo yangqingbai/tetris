@@ -1,0 +1,4 @@
+CROSS_COMPILE = arm-linux-
+DEFAULT_DEFINE = "G_BIOS"
+BUILD_OBJ = "tetris"
+CONFIG_TETRIS = y
